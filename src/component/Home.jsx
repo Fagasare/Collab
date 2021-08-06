@@ -60,7 +60,7 @@ import React, { Component } from 'react'
                         <div className="menu-extras">
                             <div className="menu-item">
                                 {/* Mobile menu toggle*/}
-                                <a className="navbar-toggle">
+                                <a href="/" className="navbar-toggle">
                                     <div className="lines">
                                         <span />
                                         <span />
@@ -73,20 +73,20 @@ import React, { Component } from 'react'
                         <div id="navigation">
                             {/* Navigation Menu*/}
                             <ul className="navigation-menu">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li className="has-submenu">
                                     <a href="/">Jobs</a><span className="menu-arrow" />
                                     <ul className="submenu">
-                                        <li><a href="job-list.html">Job List</a></li>
-                                        <li><a href="job-grid.html">Job Grid</a></li>
-                                        <li><a href="job-details.html">Job Details</a></li>
-                                        <li><a href="job-details-2.html">Job Details-2</a></li>
+                                        <li><a href="/">Job List</a></li>
+                                        <li><a href="/">Job Grid</a></li>
+                                        <li><a href="/">Job Details</a></li>
+                                        <li><a href="/">Job Details-2</a></li>
                                     </ul>
                                 </li>
                                 <li className="has-submenu">
                                     <a href="/">Pages</a><span className="menu-arrow" />
                                     <ul className="submenu">
-                                        <li><a href="about.html">About us</a></li>
+                                        <li><a href="/">About us</a></li>
                                         <li><a href="services.html">Services/Team</a></li>
                                         <li><a href="faq.html">Faqs</a></li>
                                         <li className="has-submenu"><a href="/"> Candidates</a><span className="submenu-arrow" />
@@ -613,7 +613,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Web Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Web Developer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -648,7 +648,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -669,7 +669,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Php Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Php Developer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -699,7 +699,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -720,7 +720,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Graphic Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Graphic Designer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -755,7 +755,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -776,7 +776,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">UI/UX Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">UI/UX Designer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -806,7 +806,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -833,7 +833,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Php Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Php Developer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -863,7 +863,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -884,7 +884,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Web Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Web Developer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -919,7 +919,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -940,7 +940,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">UI/UX Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">UI/UX Designer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -975,7 +975,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -996,7 +996,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Graphic Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Graphic Designer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1031,7 +1031,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1058,7 +1058,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Web Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Web Developer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1093,7 +1093,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1114,7 +1114,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Php Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Php Developer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1144,7 +1144,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1165,7 +1165,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Graphic Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Graphic Designer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1200,7 +1200,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1221,7 +1221,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">UI/UX Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">UI/UX Designer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1256,7 +1256,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1283,7 +1283,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Php Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Php Developer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1313,7 +1313,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1334,7 +1334,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Web Developer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Web Developer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1369,7 +1369,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1390,7 +1390,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">UI/UX Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">UI/UX Designer</a></h5>
                                             <p className="text-muted mb-0">Web Themes pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1425,7 +1425,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-2">
                                         <div>
-                                            <a href="#" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
+                                            <a href="/" className="text-primary">Apply Now <i className="mdi mdi-chevron-double-right" /></a>
                                         </div>
                                         </div>
                                     </div>
@@ -1446,7 +1446,7 @@ import React, { Component } from 'react'
                                         </div>
                                         <div className="col-md-3">
                                         <div>
-                                            <h5 className="f-18"><a href="#" className="text-dark">Graphic Designer</a></h5>
+                                            <h5 className="f-18"><a href="/" className="text-dark">Graphic Designer</a></h5>
                                             <p className="text-muted mb-0">Web Technology pvt.Ltd</p>
                                         </div>
                                         </div>
@@ -1739,18 +1739,18 @@ import React, { Component } from 'react'
                                     <div className="overlay rounded-top bg-dark" />
                                     <div className="likes">
                                         <ul className="list-unstyled mb-0">
-                                        <li className="list-inline-item mr-2"><a href="javascript:void(0)" className="text-white like"><i className="mdi mdi-heart-outline mr-1" />33</a></li>
-                                        <li className="list-inline-item"><a href="javascript:void(0)" className="text-white comments"><i className="mdi mdi-comment-outline mr-1" />08</a></li>
+                                        <li className="list-inline-item mr-2"><a href="/" className="text-white like"><i className="mdi mdi-heart-outline mr-1" />33</a></li>
+                                        <li className="list-inline-item"><a href="/" className="text-white comments"><i className="mdi mdi-comment-outline mr-1" />08</a></li>
                                         </ul>
                                     </div>
                                     </div>
                                     <div className="content p-4">
-                                    <h4><a href="javascript:void(0)" className="title text-dark">How apps is the IT world</a></h4>
+                                    <h4><a href="/" className="title text-dark">How apps is the IT world</a></h4>
                                     <p className="text-muted">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium, totam rem aperiam</p>
-                                    <a href="#" className="text-dark readmore">Read more <i className="mdi mdi-chevron-right" /></a>
+                                    <a href="/" className="text-dark readmore">Read more <i className="mdi mdi-chevron-right" /></a>
                                     </div>
                                     <div className="author">
-                                    <p className=" mb-0"><i className="mdi mdi-account text-light" /> <a href="javascript:void(0)" className="text-light user">Dirio Walls</a></p>
+                                    <p className=" mb-0"><i className="mdi mdi-account text-light" /> <a href="/" className="text-light user">Dirio Walls</a></p>
                                     <p className="text-light mb-0 date"><i className="mdi mdi-calendar-check" /> 25 Sep, 2019</p>
                                     </div>
                                 </div>
@@ -1762,18 +1762,18 @@ import React, { Component } from 'react'
                                     <div className="overlay rounded-top bg-dark" />
                                     <div className="likes">
                                         <ul className="list-unstyled mb-0">
-                                        <li className="list-inline-item mr-2"><a href="javascript:void(0)" className="text-white like"><i className="mdi mdi-heart-outline mr-1" />33</a></li>
-                                        <li className="list-inline-item"><a href="javascript:void(0)" className="text-white comments"><i className="mdi mdi-comment-outline mr-1" />08</a></li>
+                                        <li className="list-inline-item mr-2"><a href="/" className="text-white like"><i className="mdi mdi-heart-outline mr-1" />33</a></li>
+                                        <li className="list-inline-item"><a href="/" className="text-white comments"><i className="mdi mdi-comment-outline mr-1" />08</a></li>
                                         </ul>
                                     </div>
                                     </div>
                                     <div className="content p-4">
-                                    <h4><a href="javascript:void(0)" className="title text-dark">Vestibulum ante ipsum primis</a></h4>
+                                    <h4><a href="/" className="title text-dark">Vestibulum ante ipsum primis</a></h4>
                                     <p className="text-muted">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium, totam rem aperiam</p>
-                                    <a href="#" className="text-dark readmore">Read more <i className="mdi mdi-chevron-right" /></a>
+                                    <a href="/" className="text-dark readmore">Read more <i className="mdi mdi-chevron-right" /></a>
                                     </div>
                                     <div className="author">
-                                    <p className=" mb-0"><i className="mdi mdi-account text-light" /> <a href="javascript:void(0)" className="text-light user">Dirio Walls</a></p>
+                                    <p className=" mb-0"><i className="mdi mdi-account text-light" /> <a href="/" className="text-light user">Dirio Walls</a></p>
                                     <p className="text-light mb-0 date"><i className="mdi mdi-calendar-check" /> 25 Sep, 2019</p>
                                     </div>
                                 </div>
@@ -1785,18 +1785,18 @@ import React, { Component } from 'react'
                                     <div className="overlay rounded-top bg-dark" />
                                     <div className="likes">
                                         <ul className="list-unstyled mb-0">
-                                        <li className="list-inline-item mr-2"><a href="javascript:void(0)" className="text-white like"><i className="mdi mdi-heart-outline mr-1" />33</a></li>
-                                        <li className="list-inline-item"><a href="javascript:void(0)" className="text-white comments"><i className="mdi mdi-comment-outline mr-1" />08</a></li>
+                                        <li className="list-inline-item mr-2"><a href="/" className="text-white like"><i className="mdi mdi-heart-outline mr-1" />33</a></li>
+                                        <li className="list-inline-item"><a href="/" className="text-white comments"><i className="mdi mdi-comment-outline mr-1" />08</a></li>
                                         </ul>
                                     </div>
                                     </div>
                                     <div className="content p-4">
-                                    <h4><a href="javascript:void(0)" className="title text-dark">Maecenas tempus tellus eget</a></h4>
+                                    <h4><a href="/" className="title text-dark">Maecenas tempus tellus eget</a></h4>
                                     <p className="text-muted">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium, totam rem aperiam</p>
-                                    <a href="#" className="text-dark readmore">Read more <i className="mdi mdi-chevron-right" /></a>
+                                    <a href="/" className="text-dark readmore">Read more <i className="mdi mdi-chevron-right" /></a>
                                     </div>
                                     <div className="author">
-                                    <p className=" mb-0"><i className="mdi mdi-account text-light" /> <a href="javascript:void(0)" className="text-light user">Dirio Walls</a></p>
+                                    <p className=" mb-0"><i className="mdi mdi-account text-light" /> <a href="/" className="text-light user">Dirio Walls</a></p>
                                     <p className="text-light mb-0 date"><i className="mdi mdi-calendar-check" /> 25 Sep, 2019</p>
                                     </div>
                                 </div>
@@ -1839,38 +1839,38 @@ import React, { Component } from 'react'
                     <div className="container">
                     <div className="row">
                         <div className="col-lg-3 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                        <a href="javascript:void(0)"><img src="images/logo-light.png" height={20} alt="" /></a>
+                        <a href="/"><img src="images/logo-light.png" height={20} alt="..." /></a>
                         <p className="mt-4">At vero eos et accusamus et iusto odio dignissim os ducimus qui blanditiis praesentium</p>
                         <ul className="social-icon social list-inline mb-0">
-                            <li className="list-inline-item"><a href="#" className="rounded"><i className="mdi mdi-facebook" /></a></li>
-                            <li className="list-inline-item"><a href="#" className="rounded"><i className="mdi mdi-twitter" /></a></li>
-                            <li className="list-inline-item"><a href="#" className="rounded"><i className="mdi mdi-instagram" /></a></li>
-                            <li className="list-inline-item"><a href="#" className="rounded"><i className="mdi mdi-google" /></a></li>
+                            <li className="list-inline-item"><a href="/" className="rounded"><i className="mdi mdi-facebook" /></a></li>
+                            <li className="list-inline-item"><a href="/" className="rounded"><i className="mdi mdi-twitter" /></a></li>
+                            <li className="list-inline-item"><a href="/" className="rounded"><i className="mdi mdi-instagram" /></a></li>
+                            <li className="list-inline-item"><a href="/" className="rounded"><i className="mdi mdi-google" /></a></li>
                         </ul>
                         </div>
                         <div className="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <p className="text-white mb-4 footer-list-title">Company</p>
                         <ul className="list-unstyled footer-list">
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> About Us</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Media &amp; Press</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Career</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Blog</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Pricing</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Marketing</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> CEOs </a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Agencies</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Our Apps</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> About Us</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Media &amp; Press</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Career</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Blog</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Pricing</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Marketing</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> CEOs </a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Agencies</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Our Apps</a></li>
                         </ul>
                         </div>
                         <div className="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <p className="text-white mb-4 footer-list-title">Resources</p>
                         <ul className="list-unstyled footer-list">
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Support</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Privacy Policy</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Terms</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Accounting </a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> Billing</a></li>
-                            <li><a href="#" className="text-foot"><i className="mdi mdi-chevron-right" /> F.A.Q.</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Support</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Privacy Policy</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Terms</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Accounting </a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> Billing</a></li>
+                            <li><a href="/" className="text-foot"><i className="mdi mdi-chevron-right" /> F.A.Q.</a></li>
                         </ul>
                         </div>
                         <div className="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
