@@ -1,4 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import A from '../component/images/logo-light.png';
+import B from '../component/images/logo-dark.png';
 
  class Home extends Component {
     render() {
@@ -43,8 +45,8 @@ import React, { Component } from 'react'
                                 {/* Logo container*/}
                                 <div>
                                     <a href="index.html" className="logo">
-                                        <img src="images/logo-light.png" alt=".." className="logo-light" height={18} />
-                                        <img src="images/logo-dark.png" alt=".." className="logo-dark" height={18} />
+                                        <img src={A} alt=".." className="logo-light" height={18} />
+                                        <img src={B} alt=".." className="logo-dark" height={18} />
                                     </a>
                                 </div>
                                 <div className="buy-button">
@@ -54,7 +56,7 @@ import React, { Component } from 'react'
                                 <div className="menu-extras">
                                     <div className="menu-item">
                                         {/* Mobile menu toggle*/}
-                                        <a href="/" className="navbar-toggle">
+                                        <a href="#/" className="navbar-toggle">
                                             <div className="lines">
                                                 <span />
                                                 <span />
